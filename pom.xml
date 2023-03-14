@@ -7,9 +7,9 @@
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>com.mycompany.azure_new_process_14_03.Azure_New_Process_14_03</exec.mainClass>
+        <maven.compiler.source>17.0.6</maven.compiler.source>
+        <maven.compiler.target>17.0.6</maven.compiler.target>
+      <!--  <exec.mainClass>com.mycompany.azure_new_process_14_03.Azure_New_Process_14_03</exec.mainClass> --> 
     </properties>
     
     <dependencies>
